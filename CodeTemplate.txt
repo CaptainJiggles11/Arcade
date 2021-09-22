@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//CHANGE ME: Add your name
+//CHANGE ME: Mario Bros
+//CHANGE ME: Jaime Lopez
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (touch fuzzy) {
+    //get dizzy
 } else {
-    //Add event below
+    //nothing 
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (encounter goomba) {
+    //jump on it
 } else {
-    //Add event below
+    //get hurt by it
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (jump over a ledge) {
+    //make it to the other sider
 } else {
-    //Add event below
+    //fall and die 
 }
 
 
